@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10px 20px;
+  background-color: rgb(230, 250, 236);
+}
+
+
